@@ -807,3 +807,6 @@
 {"n":807,"kind":"place","name":"High line west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"High line west slip. Bess keeps the barrel for the wipe. 7 steps, direct on the left lane, open."}
 {"n":808,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, west slip. direct left open. 8 steps. The barrel stays for the wipe."}
 {"n":809,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Ward gate. Nobody past the west slip. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":810,"kind":"place","name":"Ward gate west slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Ward gate west slip. Matt keeps the crate for the wipe. 3 steps, direct on the left lane, open."}
+{"n":811,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Ward gate, west slip. direct left open. 4 steps. The crate stays for the wipe."}
+{"n":812,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the crate at Ward gate. Nobody past the west slip. We wipe in 5 steps. Direct on the left lane, open."}
