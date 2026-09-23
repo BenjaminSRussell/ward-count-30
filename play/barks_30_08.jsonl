@@ -724,3 +724,6 @@
 {"n":724,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"Kessler alley west yard. Ivo keeps the barrel for the wipe. 7 steps, direct on the left lane, open."}
 {"n":725,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west yard. direct left open. 8 steps. The barrel stays for the wipe."}
 {"n":726,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Kessler alley. Nobody past the west yard. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":727,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley west yard. Bess keeps the barrel for the wipe. 3 steps, direct on the left lane, open."}
+{"n":728,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west yard. direct left open. 4 steps. The barrel stays for the wipe."}
+{"n":729,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at the Lot. Nobody past the west yard. We wipe in 5 steps. Direct on the left lane, open."}
