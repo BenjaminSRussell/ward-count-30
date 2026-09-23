@@ -276,3 +276,6 @@
 {"n":276,"kind":"place","name":"the pier east slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier east slip. Ivo keeps the rebar for the wipe. 5 steps, direct on the left lane, open."}
 {"n":277,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, east slip. direct left open. 6 steps. The rebar stays for the wipe."}
 {"n":278,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at the pier. Nobody past the east slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":279,"kind":"place","name":"the pier east slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier east slip. Bess keeps the rebar for the wipe. 8 steps, direct on the left lane, open."}
+{"n":280,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, east slip. direct left open. 2 steps. The rebar stays for the wipe."}
+{"n":281,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Clinic roof. Nobody past the east slip. We wipe in 3 steps. Direct on the left lane, open."}
