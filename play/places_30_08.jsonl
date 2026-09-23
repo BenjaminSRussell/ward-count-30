@@ -548,3 +548,6 @@
 {"n":548,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west yard. direct left open. 6 steps. The hydrant stays for the wipe."}
 {"n":549,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at Kessler alley. Nobody past the west yard. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":550,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Kessler alley west yard. Matt keeps the hydrant for the wipe. 8 steps, direct on the left lane, open."}
+{"n":551,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Kessler alley, west yard. direct left open. 2 steps. The hydrant stays for the wipe."}
+{"n":552,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at Kessler alley. Nobody past the west yard. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":553,"kind":"place","name":"Kessler alley west yard","place_kind":"alley","dressing":"lamps","speaker":"Nia","line":"Kessler alley west yard. Nia keeps the hydrant for the wipe. 4 steps, direct on the left lane, open."}
