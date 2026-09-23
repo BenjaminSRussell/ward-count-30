@@ -596,3 +596,6 @@
 {"n":596,"kind":"place","name":"the pier west slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"the pier west slip. Ivo keeps the shutter for the wipe. 5 steps, direct on the left lane, open."}
 {"n":597,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west slip. direct left open. 6 steps. The shutter stays for the wipe."}
 {"n":598,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at the pier. Nobody past the west slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":599,"kind":"place","name":"the pier west slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"the pier west slip. Bess keeps the shutter for the wipe. 8 steps, direct on the left lane, open."}
+{"n":600,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west slip. direct left open. 2 steps. The shutter stays for the wipe."}
+{"n":601,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Clinic roof. Nobody past the west slip. We wipe in 3 steps. Direct on the left lane, open."}
