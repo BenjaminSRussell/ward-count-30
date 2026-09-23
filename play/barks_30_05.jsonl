@@ -316,3 +316,6 @@
 {"n":316,"kind":"place","name":"Switchyard north slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"Switchyard north slip. Ivo keeps the rebar for the wipe. 8 steps, direct on the left lane, open."}
 {"n":317,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, north slip. direct left open. 2 steps. The rebar stays for the wipe."}
 {"n":318,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Switchyard. Nobody past the north slip. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":319,"kind":"place","name":"Switchyard north slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"Switchyard north slip. Bess keeps the rebar for the wipe. 4 steps, direct on the left lane, open."}
+{"n":320,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, north slip. direct left open. 5 steps. The rebar stays for the wipe."}
+{"n":321,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Drydock. Nobody past the north slip. We wipe in 6 steps. Direct on the left lane, open."}
