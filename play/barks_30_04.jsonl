@@ -95,3 +95,6 @@
 {"n":95,"kind":"place","name":"Last Light east slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light east slip. Bess keeps the badge door for the wipe. 5 steps, direct on the left lane, open."}
 {"n":96,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east slip. direct left open. 6 steps. The badge door stays for the wipe."}
 {"n":97,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the badge door at South stair. Nobody past the east slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":98,"kind":"place","name":"South stair east slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair east slip. Matt keeps the badge door for the wipe. 8 steps, direct on the left lane, open."}
+{"n":99,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east slip. direct left open. 2 steps. The badge door stays for the wipe."}
+{"n":100,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the badge door at South stair. Nobody past the east slip. We wipe in 3 steps. Direct on the left lane, open."}
