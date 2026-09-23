@@ -492,3 +492,6 @@
 {"n":492,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"Kessler alley west slip. Ivo keeps the hydrant for the wipe. 7 steps, direct on the left lane, open."}
 {"n":493,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, west slip. direct left open. 8 steps. The hydrant stays for the wipe."}
 {"n":494,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Kessler alley. Nobody past the west slip. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":495,"kind":"place","name":"Kessler alley west slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Kessler alley west slip. Bess keeps the hydrant for the wipe. 3 steps, direct on the left lane, open."}
+{"n":496,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, west slip. direct left open. 4 steps. The hydrant stays for the wipe."}
+{"n":497,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the hydrant at the Lot. Nobody past the west slip. We wipe in 5 steps. Direct on the left lane, open."}
