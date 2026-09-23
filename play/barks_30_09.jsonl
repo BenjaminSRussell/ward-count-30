@@ -348,3 +348,6 @@
 {"n":348,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Switchyard west yard. Ivo keeps the rebar for the wipe. 8 steps, direct on the left lane, open."}
 {"n":349,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Switchyard, west yard. direct left open. 2 steps. The rebar stays for the wipe."}
 {"n":350,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Switchyard. Nobody past the west yard. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":351,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Switchyard west yard. Bess keeps the rebar for the wipe. 4 steps, direct on the left lane, open."}
+{"n":352,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Switchyard, west yard. direct left open. 5 steps. The rebar stays for the wipe."}
+{"n":353,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Drydock. Nobody past the west yard. We wipe in 6 steps. Direct on the left lane, open."}
