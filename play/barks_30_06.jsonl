@@ -456,3 +456,6 @@
 {"n":456,"kind":"place","name":"South stair south slip","place_kind":"alley","dressing":"barrels","speaker":"Ivo","line":"South stair south slip. Ivo keeps the plywood for the wipe. 7 steps, direct on the left lane, open."}
 {"n":457,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at South stair, south slip. direct left open. 8 steps. The plywood stays for the wipe."}
 {"n":458,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at South stair. Nobody past the south slip. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":459,"kind":"place","name":"South stair south slip","place_kind":"alley","dressing":"hydrant","speaker":"Bess","line":"South stair south slip. Bess keeps the plywood for the wipe. 3 steps, direct on the left lane, open."}
+{"n":460,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at South stair, south slip. direct left open. 4 steps. The plywood stays for the wipe."}
+{"n":461,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at the pier. Nobody past the south slip. We wipe in 5 steps. Direct on the left lane, open."}
