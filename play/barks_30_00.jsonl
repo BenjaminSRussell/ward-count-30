@@ -900,3 +900,6 @@
 {"n":900,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"Last Light west slip. Ivo keeps the crate for the wipe. 2 steps, direct on the left lane, open."}
 {"n":901,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, west slip. direct left open. 3 steps. The crate stays for the wipe."}
 {"n":902,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Last Light. Nobody past the west slip. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":903,"kind":"place","name":"Last Light west slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light west slip. Bess keeps the crate for the wipe. 5 steps, direct on the left lane, open."}
+{"n":904,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, west slip. direct left open. 6 steps. The crate stays for the wipe."}
+{"n":905,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at South stair. Nobody past the west slip. We wipe in 7 steps. Direct on the left lane, open."}
