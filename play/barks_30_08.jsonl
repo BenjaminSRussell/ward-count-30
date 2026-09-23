@@ -904,3 +904,6 @@
 {"n":904,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot west yard. Ivo keeps the crate for the wipe. 5 steps, direct on the left lane, open."}
 {"n":905,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, west yard. direct left open. 6 steps. The crate stays for the wipe."}
 {"n":906,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at the Lot. Nobody past the west yard. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":907,"kind":"place","name":"the Lot west yard","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot west yard. Bess keeps the crate for the wipe. 8 steps, direct on the left lane, open."}
+{"n":908,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, west yard. direct left open. 2 steps. The crate stays for the wipe."}
+{"n":909,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Stockyard fence. Nobody past the west yard. We wipe in 3 steps. Direct on the left lane, open."}
