@@ -22,3 +22,6 @@
 {"n":22,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, east slip. direct left open. 3 steps. The lamp stays for the wipe."}
 {"n":23,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the lamp at the Lot. Nobody past the east slip. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":24,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the Lot east slip. Ivo keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
+{"n":25,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, east slip. direct left open. 6 steps. The lamp stays for the wipe."}
+{"n":26,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the Lot. Nobody past the east slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":27,"kind":"place","name":"the Lot east slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the Lot east slip. Bess keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
