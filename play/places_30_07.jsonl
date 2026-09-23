@@ -189,3 +189,6 @@
 {"n":189,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at High line, south slip. direct left open. 5 steps. The lamp stays for the wipe."}
 {"n":190,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at High line. Nobody past the south slip. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":191,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"High line south slip. Bess keeps the lamp for the wipe. 7 steps, direct on the left lane, open."}
+{"n":192,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at High line, south slip. direct left open. 8 steps. The lamp stays for the wipe."}
+{"n":193,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Ward gate. Nobody past the south slip. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":194,"kind":"place","name":"Ward gate south slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Ward gate south slip. Matt keeps the rebar for the wipe. 3 steps, direct on the left lane, open."}
