@@ -414,3 +414,6 @@
 {"n":414,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the plywood at Last Light. Nobody past the east slip. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":415,"kind":"place","name":"Last Light east slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Last Light east slip. Bess keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
 {"n":416,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, east slip. direct left open. 6 steps. The plywood stays for the wipe."}
+{"n":417,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at South stair. Nobody past the east slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":418,"kind":"place","name":"South stair east slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"South stair east slip. Matt keeps the plywood for the wipe. 8 steps, direct on the left lane, open."}
+{"n":419,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at South stair, east slip. direct left open. 2 steps. The plywood stays for the wipe."}
