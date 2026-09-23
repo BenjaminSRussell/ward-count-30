@@ -168,3 +168,6 @@
 {"n":168,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"the Lot south roof. Ivo keeps the radio coil for the wipe. 5 steps, direct on the left lane, open."}
 {"n":169,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south roof. direct left open. 6 steps. The radio coil stays for the wipe."}
 {"n":170,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the radio coil at the Lot. Nobody past the south roof. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":171,"kind":"place","name":"the Lot south roof","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"the Lot south roof. Bess keeps the radio coil for the wipe. 8 steps, direct on the left lane, open."}
+{"n":172,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, south roof. direct left open. 2 steps. The radio coil stays for the wipe."}
+{"n":173,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the radio coil at Stockyard fence. Nobody past the south roof. We wipe in 3 steps. Direct on the left lane, open."}
