@@ -453,3 +453,6 @@
 {"n":453,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Switchyard. Nobody past the east slip. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":454,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"hydrant","speaker":"Matt","line":"Switchyard east slip. Matt keeps the plywood for the wipe. 2 steps, direct on the left lane, open."}
 {"n":455,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east slip. direct left open. 3 steps. The plywood stays for the wipe."}
+{"n":456,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Switchyard. Nobody past the east slip. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":457,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"crates","speaker":"Nia","line":"Switchyard east slip. Nia keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
+{"n":458,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Switchyard, east slip. direct left open. 6 steps. The plywood stays for the wipe."}
