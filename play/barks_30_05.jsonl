@@ -223,3 +223,6 @@
 {"n":223,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Stockyard fence north slip. Bess keeps the rebar for the wipe. 6 steps, direct on the left lane, open."}
 {"n":224,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Stockyard fence, north slip. direct left open. 7 steps. The rebar stays for the wipe."}
 {"n":225,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at Mall court. Nobody past the north slip. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":226,"kind":"place","name":"Mall court north slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Mall court north slip. Matt keeps the rebar for the wipe. 2 steps, direct on the left lane, open."}
+{"n":227,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Mall court, north slip. direct left open. 3 steps. The rebar stays for the wipe."}
+{"n":228,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the rebar at Mall court. Nobody past the north slip. We wipe in 4 steps. Direct on the left lane, open."}
