@@ -521,3 +521,6 @@
 {"n":521,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, north slip. direct left open. 3 steps. The shutter stays for the wipe."}
 {"n":522,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the shutter at Ward gate. Nobody past the north slip. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":523,"kind":"place","name":"Ward gate north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Ward gate north slip. Bess keeps the shutter for the wipe. 5 steps, direct on the left lane, open."}
+{"n":524,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, north slip. direct left open. 6 steps. The shutter stays for the wipe."}
+{"n":525,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the shutter at Kessler alley. Nobody past the north slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":526,"kind":"place","name":"Kessler alley north slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Kessler alley north slip. Matt keeps the shutter for the wipe. 8 steps, direct on the left lane, open."}
