@@ -619,3 +619,6 @@
 {"n":619,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at the pier. Nobody past the north slip. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":620,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"plywood","speaker":"Ivo","line":"the pier north slip. Ivo keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
 {"n":621,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, north slip. direct left open. 6 steps. The hydrant stays for the wipe."}
+{"n":622,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at the pier. Nobody past the north slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":623,"kind":"place","name":"the pier north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the pier north slip. Bess keeps the hydrant for the wipe. 8 steps, direct on the left lane, open."}
+{"n":624,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, north slip. direct left open. 2 steps. The hydrant stays for the wipe."}
