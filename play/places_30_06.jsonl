@@ -526,3 +526,6 @@
 {"n":526,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at Ward gate, south slip. direct left open. 7 steps. The hydrant stays for the wipe."}
 {"n":527,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at Ward gate. Nobody past the south slip. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":528,"kind":"place","name":"Ward gate south slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate south slip. Ivo keeps the hydrant for the wipe. 2 steps, direct on the left lane, open."}
+{"n":529,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, south slip. direct left open. 3 steps. The hydrant stays for the wipe."}
+{"n":530,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the hydrant at Ward gate. Nobody past the south slip. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":531,"kind":"place","name":"Ward gate south slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate south slip. Bess keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
