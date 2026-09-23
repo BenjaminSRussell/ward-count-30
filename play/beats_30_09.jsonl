@@ -1,1 +1,4 @@
 {"n":1,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Clinic roof, west yard. direct left open. 4 steps. The crate stays for the wipe."}
+{"n":2,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Clinic roof. Nobody past the west yard. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":3,"kind":"place","name":"Clinic roof west yard","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Clinic roof west yard. Bess keeps the crate for the wipe. 6 steps, direct on the left lane, open."}
+{"n":4,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west yard. direct left open. 7 steps. The crate stays for the wipe."}
