@@ -844,3 +844,6 @@
 {"n":844,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south slip. direct left open. 3 steps. The barrel stays for the wipe."}
 {"n":845,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the barrel at High line. Nobody past the south slip. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":846,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"High line south slip. Matt keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
+{"n":847,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south slip. direct left open. 6 steps. The barrel stays for the wipe."}
+{"n":848,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the barrel at High line. Nobody past the south slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":849,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"High line south slip. Nia keeps the barrel for the wipe. 8 steps, direct on the left lane, open."}
