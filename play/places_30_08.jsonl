@@ -500,3 +500,6 @@
 {"n":500,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, west yard. direct left open. 7 steps. The plywood stays for the wipe."}
 {"n":501,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the plywood at Switchyard. Nobody past the west yard. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":502,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"crates","speaker":"Matt","line":"Switchyard west yard. Matt keeps the plywood for the wipe. 2 steps, direct on the left lane, open."}
+{"n":503,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, west yard. direct left open. 3 steps. The plywood stays for the wipe."}
+{"n":504,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the plywood at Switchyard. Nobody past the west yard. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":505,"kind":"place","name":"Switchyard west yard","place_kind":"alley","dressing":"plywood","speaker":"Nia","line":"Switchyard west yard. Nia keeps the plywood for the wipe. 5 steps, direct on the left lane, open."}
