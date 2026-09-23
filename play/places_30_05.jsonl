@@ -41,3 +41,6 @@
 {"n":41,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, north slip. direct left open. 6 steps. The lamp stays for the wipe."}
 {"n":42,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at the Lot. Nobody past the north slip. We wipe in 7 steps. Direct on the left lane, open."}
 {"n":43,"kind":"place","name":"the Lot north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"the Lot north slip. Bess keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
+{"n":44,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the Lot, north slip. direct left open. 2 steps. The lamp stays for the wipe."}
+{"n":45,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at Stockyard fence. Nobody past the north slip. We wipe in 3 steps. Direct on the left lane, open."}
+{"n":46,"kind":"place","name":"Stockyard fence north slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"Stockyard fence north slip. Matt keeps the lamp for the wipe. 4 steps, direct on the left lane, open."}
