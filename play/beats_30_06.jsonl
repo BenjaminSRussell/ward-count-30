@@ -548,3 +548,6 @@
 {"n":548,"kind":"bark","speaker":"Lis","moment":"wipe","line":"Lis: Hold the hydrant at the Lot. Nobody past the south slip. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":549,"kind":"place","name":"the Lot south slip","place_kind":"alley","dressing":"hydrant","speaker":"Nia","line":"the Lot south slip. Nia keeps the hydrant for the wipe. 2 steps, direct on the left lane, open."}
 {"n":550,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Reed","line":"Reed at the Lot, south slip. direct left open. 3 steps. The hydrant stays for the wipe."}
+{"n":551,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the hydrant at the Lot. Nobody past the south slip. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":552,"kind":"place","name":"the Lot south slip","place_kind":"alley","dressing":"crates","speaker":"Ivo","line":"the Lot south slip. Ivo keeps the hydrant for the wipe. 5 steps, direct on the left lane, open."}
+{"n":553,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the Lot, south slip. direct left open. 6 steps. The hydrant stays for the wipe."}
