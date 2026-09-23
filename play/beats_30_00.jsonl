@@ -647,3 +647,6 @@
 {"n":647,"kind":"bark","speaker":"June","moment":"wipe","line":"June: Hold the barrel at Ward gate. Nobody past the west slip. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":648,"kind":"place","name":"Ward gate west slip","place_kind":"alley","dressing":"lamps","speaker":"Ivo","line":"Ward gate west slip. Ivo keeps the barrel for the wipe. 2 steps, direct on the left lane, open."}
 {"n":649,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Ward gate, west slip. direct left open. 3 steps. The barrel stays for the wipe."}
+{"n":650,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the barrel at Ward gate. Nobody past the west slip. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":651,"kind":"place","name":"Ward gate west slip","place_kind":"alley","dressing":"barrels","speaker":"Bess","line":"Ward gate west slip. Bess keeps the barrel for the wipe. 5 steps, direct on the left lane, open."}
+{"n":652,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Ward gate, west slip. direct left open. 6 steps. The barrel stays for the wipe."}
