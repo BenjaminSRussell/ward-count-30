@@ -101,3 +101,6 @@
 {"n":101,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Last Light, north slip. direct left open. 3 steps. The lamp stays for the wipe."}
 {"n":102,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Last Light. Nobody past the north slip. We wipe in 4 steps. Direct on the left lane, open."}
 {"n":103,"kind":"place","name":"Last Light north slip","place_kind":"alley","dressing":"lamps","speaker":"Bess","line":"Last Light north slip. Bess keeps the lamp for the wipe. 5 steps, direct on the left lane, open."}
+{"n":104,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Last Light, north slip. direct left open. 6 steps. The lamp stays for the wipe."}
+{"n":105,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at South stair. Nobody past the north slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":106,"kind":"place","name":"South stair north slip","place_kind":"alley","dressing":"barrels","speaker":"Matt","line":"South stair north slip. Matt keeps the lamp for the wipe. 8 steps, direct on the left lane, open."}
