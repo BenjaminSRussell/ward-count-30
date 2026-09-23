@@ -346,3 +346,6 @@
 {"n":346,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the rebar at Drydock. Nobody past the south slip. We wipe in 8 steps. Direct on the left lane, open."}
 {"n":347,"kind":"place","name":"Drydock south slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Drydock south slip. Bess keeps the rebar for the wipe. 2 steps, direct on the left lane, open."}
 {"n":348,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Drydock, south slip. direct left open. 3 steps. The rebar stays for the wipe."}
+{"n":349,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the rebar at High line. Nobody past the south slip. We wipe in 4 steps. Direct on the left lane, open."}
+{"n":350,"kind":"place","name":"High line south slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"High line south slip. Matt keeps the rebar for the wipe. 5 steps, direct on the left lane, open."}
+{"n":351,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at High line, south slip. direct left open. 6 steps. The rebar stays for the wipe."}
