@@ -764,3 +764,6 @@
 {"n":764,"kind":"place","name":"the pier west slip","place_kind":"alley","dressing":"hydrant","speaker":"Ivo","line":"the pier west slip. Ivo keeps the awning for the wipe. 5 steps, direct on the left lane, open."}
 {"n":765,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at the pier, west slip. direct left open. 6 steps. The awning stays for the wipe."}
 {"n":766,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at the pier. Nobody past the west slip. We wipe in 7 steps. Direct on the left lane, open."}
+{"n":767,"kind":"place","name":"the pier west slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"the pier west slip. Bess keeps the awning for the wipe. 8 steps, direct on the left lane, open."}
+{"n":768,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at the pier, west slip. direct left open. 2 steps. The awning stays for the wipe."}
+{"n":769,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Clinic roof. Nobody past the west slip. We wipe in 3 steps. Direct on the left lane, open."}
