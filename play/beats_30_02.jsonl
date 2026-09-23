@@ -954,3 +954,6 @@
 {"n":954,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the crate at Clinic roof. Nobody past the east slip. We wipe in 5 steps. Direct on the left lane, open."}
 {"n":955,"kind":"place","name":"Clinic roof east slip","place_kind":"alley","dressing":"plywood","speaker":"Bess","line":"Clinic roof east slip. Bess keeps the crate for the wipe. 6 steps, direct on the left lane, open."}
 {"n":956,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Clinic roof, east slip. direct left open. 7 steps. The crate stays for the wipe."}
+{"n":957,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the crate at Switchyard. Nobody past the east slip. We wipe in 8 steps. Direct on the left lane, open."}
+{"n":958,"kind":"place","name":"Switchyard east slip","place_kind":"alley","dressing":"lamps","speaker":"Matt","line":"Switchyard east slip. Matt keeps the crate for the wipe. 2 steps, direct on the left lane, open."}
+{"n":959,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Shaun","line":"Shaun at Switchyard, east slip. direct left open. 3 steps. The crate stays for the wipe."}
