@@ -45,3 +45,6 @@
 {"n":45,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Kessler alley, south slip. direct left open. 8 steps. The lamp stays for the wipe."}
 {"n":46,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the lamp at Kessler alley. Nobody past the south slip. We wipe in 2 steps. Direct on the left lane, open."}
 {"n":47,"kind":"place","name":"Kessler alley south slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Kessler alley south slip. Bess keeps the lamp for the wipe. 3 steps, direct on the left lane, open."}
+{"n":48,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Kessler alley, south slip. direct left open. 4 steps. The lamp stays for the wipe."}
+{"n":49,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the lamp at the Lot. Nobody past the south slip. We wipe in 5 steps. Direct on the left lane, open."}
+{"n":50,"kind":"place","name":"the Lot south slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"the Lot south slip. Matt keeps the lamp for the wipe. 6 steps, direct on the left lane, open."}
