@@ -745,3 +745,6 @@
 {"n":745,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Cole","line":"Cole at Mast yard, east slip. direct left open. 5 steps. The awning stays for the wipe."}
 {"n":746,"kind":"bark","speaker":"Ada","moment":"wipe","line":"Ada: Hold the awning at Mast yard. Nobody past the east slip. We wipe in 6 steps. Direct on the left lane, open."}
 {"n":747,"kind":"place","name":"Mast yard east slip","place_kind":"alley","dressing":"crates","speaker":"Bess","line":"Mast yard east slip. Bess keeps the awning for the wipe. 7 steps, direct on the left lane, open."}
+{"n":748,"kind":"beat","name":"direct left open","approach":"direct","lane":"left","phase":"open","speaker":"Vic","line":"Vic at Mast yard, east slip. direct left open. 8 steps. The awning stays for the wipe."}
+{"n":749,"kind":"bark","speaker":"Sam","moment":"wipe","line":"Sam: Hold the awning at Last Light. Nobody past the east slip. We wipe in 2 steps. Direct on the left lane, open."}
+{"n":750,"kind":"place","name":"Last Light east slip","place_kind":"alley","dressing":"plywood","speaker":"Matt","line":"Last Light east slip. Matt keeps the awning for the wipe. 3 steps, direct on the left lane, open."}
